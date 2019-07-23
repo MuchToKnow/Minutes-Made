@@ -1,3 +1,6 @@
+### Minutes-Made is an extension of our NWHacks project found [here](https://devpost.com/software/minutes-made)
+Minutes Made is a meeting management application that automatically extracts action items from speech while also transcribing and tagging the entire meeting.
+
 [![Build Status](https://jenkins.minutesmade.com/buildStatus/icon?job=Minutes-Made/master)](https://jenkins.minutesmade.com/job/Minutes-Made/job/master/)
 
 # Minutes-Made
